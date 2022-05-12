@@ -1,4 +1,4 @@
-FROM node:slim
+FROM node:18.1.0-slim
 
 LABEL "name"="github"
 LABEL "maintainer"="GitHub Actions <support+actions@github.com>"
